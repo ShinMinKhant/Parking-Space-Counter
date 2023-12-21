@@ -1,4 +1,4 @@
 # Parking-Space-Counter
-Computer Vision Project (University Group Porject)
+Computer Vision Project (University Group Project)
 
-Parking Space Counter using OpenCV Python
+To find how many total cars are present and how many spaces are vacant to park using basic Image Processing techniques.
